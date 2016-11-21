@@ -1,3 +1,6 @@
 body {
-  background-color: green;
+  background-image: url("../img/mountains.jpg");
+}
+h1 {
+  color: maroon;
 }
